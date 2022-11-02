@@ -1,5 +1,8 @@
 welcome to new git file.
 
+Adding some food items:
 
+Pizza
+Fries
 
 Thank you :)
